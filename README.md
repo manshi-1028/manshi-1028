@@ -1,39 +1,40 @@
 # Hi, I'm Manshi 👋
 
-**backend dev · python learner · building in public**
+**Backend developer in progress · CSE, 3rd year · building toward 10+ LPA by Jan 2027**
 
 ---
 
-### 🙋‍♀️ About me
+### 🎯 Current focus
 
-I'm **manshi-1028** — a beginner developer with a strong interest in **Python** and backend development.
-I'm actively learning, pushing projects to GitHub, and growing one commit at a time.
-Currently exploring Python through daily mini projects and building small tools along the way.
+- DSA in C++ — 42+ problems solved on LeetCode/NeetCode since May 2026
+- Backend: Python, FastAPI, moving to Django + PostgreSQL + Docker
+- Daily practice — Python fundamentals + DSA, logged in this profile
 
 ---
 
 ### 🛠 Tech & Tools
 
-`Python` `HTML` `Git & GitHub` `VS Code` `REST APIs` `SQL (learning)`
+`Python` `FastAPI` `C++` `SQL` `Git & GitHub` `REST APIs` `Docker (learning)`
 
 ---
 
-### 📁 My Repos
+### 📁 Projects
 
-| Repo | Description | Language |
-|------|-------------|----------|
-| [python_mini_daily](https://github.com/manshi-1028/python_mini_daily) | Daily Python mini projects — practising concepts every day | Python |
-| [project-kill-check](https://github.com/manshi-1028/project-kill-check) | A small HTML project — one of my first builds | HTML |
-
----
-
-### 🔭 Currently
-
-- Learning Python — focused on backend concepts
-- Pushing daily Python practice to GitHub
-- Exploring how the web and servers work together
-- Open to feedback, collaboration, and learning from others
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [neetcode-submissions](https://github.com/manshi-1028/neetcode-submissions) | DSA problem solutions, tracked by pattern | C++ |
+| [python_mini_daily](https://github.com/manshi-1028/python_mini_daily) | Daily Python practice log | Python |
+| [expense-tracker-fastapi](LINK_ONCE_PUSHED) | Full-stack expense tracker — JWT auth, SQLAlchemy, Docker, CI/CD, Pytest | FastAPI, Docker |
 
 ---
 
-<p align="center"><i>early stage · lots of commits ahead · let's connect</i></p>
+### 📈 Progress log
+
+- May 2026 — started DSA + Python prep
+- Aug 2026 — 42+ LeetCode solved, FastAPI project shipped
+- Next — Django, PostgreSQL, Redis, Docker
+
+---
+
+*Open to feedback, collaboration, and connecting with other devs.*
+[LinkedIn](https://www.linkedin.com/in/manshi-7913b0397/)
